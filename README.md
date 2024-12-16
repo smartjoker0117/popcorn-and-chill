@@ -62,11 +62,10 @@ Follow along the steps below to get a copy at your local machine.
 
 ## Author
 
-😎 **Helcio André**
+😎 **Jarrod Henry**
 
-- GitHub: [@helciodev](https://github.com/helciodev)
-- Twitter: [@helcio_bruno](https://twitter.com/helcio_bruno)
-- Linkedin: [Helcio Andre](https://www.linkedin.com/in/helcio-andre/)
+- GitHub: [@smartjoker0117](https://github.com/smartjoker0117)
+- Linkedin: [Jarrod Henry](https://www.linkedin.com/in/jarrod-henry-link/)
 
 ## 🤝 Contributing
 
